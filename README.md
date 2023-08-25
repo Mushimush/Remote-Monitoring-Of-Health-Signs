@@ -84,7 +84,4 @@ Motivated to build ontop of the work done at MIT
 * [Eulerian Video Magnification for Revealing Subtle Changes in the World
 ](http://people.csail.mit.edu/mrub/evm/)
 
-Thank you Hussem Ben Belgacem for pointers and guidance.
-
-* [Eulerian Video Magnification](https://github.com/hbenbel/Eulerian-Video-Magnification)
 
