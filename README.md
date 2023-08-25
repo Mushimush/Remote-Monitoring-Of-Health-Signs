@@ -70,7 +70,6 @@ Don't forget to give the project a star! Thanks again!
 
 Stanley - [stanleytanyr@gmail.com](stanleytanyr@gmail.com)
 
-Project Link: [https://github.com/Mushimush/sj-store](https://github.com/Mushimush/sj-store)
 
 
 
